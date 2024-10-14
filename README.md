@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-vilela&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-vilela&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arthur-vilela/arthur-vilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
